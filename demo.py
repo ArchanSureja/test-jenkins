@@ -1,5 +1,5 @@
 
 print("second change")
 print("third change")
-a = 20
+a = 10
 print(a)
